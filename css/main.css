@@ -1,0 +1,50 @@
+.home{
+	background: url(../img/home.jpg);
+	background-size: cover 100vh;
+	padding: 15%;
+}
+
+.home h1{
+	color: white;
+}
+
+.jumbotron h1{
+	font-size: 300%;
+}
+
+.codegirls{
+	padding: 8%;
+}
+
+.trailer iframe{
+	width: 100%;
+}
+
+.hackathon-background, .jumbo-hackathon{
+	background-color: #FFFF0A;
+}
+
+.jumbo-hackathon p{
+	font-size: 90%;
+}
+
+.hackathon-img img{
+	margin: 5% 0%;
+}
+
+.contact{
+	padding: 10%;
+}
+
+footer{
+	background-color: #378591;
+	padding: 2% 0%;
+}
+
+footer p{
+	color: white;
+}
+
+footer a{
+	color: yellow;
+}
